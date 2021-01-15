@@ -72,6 +72,7 @@ RUN set -ex; \
         pdo_mysql \
         ssh2 \
         sockets \
+	redis \
         zip
 
 # WordPress
